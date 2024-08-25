@@ -1,1 +1,1 @@
-kasusa/webclipboard-v2.0:20240825
+docker push kasusa/webclipboard-v2.0:20240825v2
