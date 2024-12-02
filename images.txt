@@ -1,1 +1,1 @@
-xiaoyaliu/alist:latest
+filebrowser/filebrowser
