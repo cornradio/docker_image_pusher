@@ -1,1 +1,1 @@
-filebrowser/filebrowser
+xiaoyaliu/alist:hostmode
