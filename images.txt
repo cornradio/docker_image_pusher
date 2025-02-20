@@ -1,2 +1,1 @@
-aquasec/trivy:latest
-aquasec/kube-bench:latest
+kasusa/lan-clipboard-app:latest
