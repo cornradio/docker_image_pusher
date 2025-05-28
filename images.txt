@@ -1,1 +1,1 @@
-kasusa/lan-clipboard-app:latest
+jgraph/drawio
