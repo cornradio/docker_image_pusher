@@ -1,1 +1,1 @@
-gvenzl/oracle-xe:latest
+kasusa/webclipboard-v2.0:20250825
